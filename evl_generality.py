@@ -32,7 +32,7 @@ def evaluate_with_noise(x,y):
     plt.plot(x,y)
     result = calculate_mic(x,y)
     print(' ')
-    print('Calculate the MIC with white noise:',result)
+    print('Calculate the MIC with noise:',result)
     print(' ')
     print(' ')
     print(' ')
